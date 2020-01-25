@@ -1,0 +1,83 @@
+		      Temperatura
+		 ------------------- 
+
+Fecha: 07MARZ-2017
+------------------
+longitud::45cadena (lon-22) 24.518.4741007.61009.4
+longitud::35cadena (lon-22) VOKSKC24.319.9761010.0
+longitud::35cadena (lon-22) VOKSKC24.020.2791010.6
+longitud::41cadena (lon-22) 23.820.2811009.41010.8
+longitud::35cadena (lon-22) VOKSKC23.520.5831011.4
+longitud::39cadena (lon-22) AC500023.220.8861011.2
+longitud::45cadena (lon-22) 23.320.4841009.21010.6
+longitud::39cadena (lon-22) AC500022.920.7871010.2
+longitud::39cadena (lon-22) AC500022.920.5861009.8
+longitud::45cadena (lon-22) 22.820.4861008.41010.1
+longitud::39cadena (lon-22) AC500022.820.2841010.2
+longitud::39cadena (lon-22) AC500022.320.1871010.3
+longitud::45cadena (lon-22) 22.920.3851009.01010.7
+longitud::39cadena (lon-22) AC500024.720.7761011.1
+longitud::39cadena (lon-22) AC500026.620.8701011.4
+longitud::45cadena (lon-22) 26.420.4691009.71011.5
+longitud::39cadena (lon-22) AC500027.220.4671011.3
+longitud::39cadena (lon-22) AC500027.720.3631010.8
+longitud::45cadena (lon-22) 30.119.8551007.91009.7
+longitud::39cadena (lon-22) CI700030.120.0581009.1
+longitud::39cadena (lon-22) CI700030.118.4521008.5
+longitud::45cadena (lon-22) 30.118.4521006.41008.2
+longitud::39cadena (lon-22) CI700027.819.5611008.5
+longitud::39cadena (lon-22) CI700026.420.4691009.2
+
+Fecha: 06MARZ-2017
+------------------
+longitud::52cadena (lon-22) 25.820.7731007.51009.3
+longitud::39cadena (lon-22) AC500025.121.5801010.1
+longitud::39cadena (lon-22) AC500024.521.5831010.5
+longitud::45cadena (lon-22) 24.021.7861008.91010.7
+longitud::39cadena (lon-22) CI700024.021.1831010.6
+longitud::39cadena (lon-22) CI700024.021.1831010.2
+longitud::45cadena (lon-22) 24.021.1831007.91009.7
+longitud::39cadena (lon-22) AC500023.921.1841009.2
+longitud::39cadena (lon-22) AC500023.521.3871008.6
+longitud::45cadena (lon-22) 23.721.4871006.71008.5
+longitud::39cadena (lon-22) AC450023.421.3881008.6
+longitud::39cadena (lon-22) AC500023.221.3891008.9
+longitud::45cadena (lon-22) 23.321.4891007.51009.2
+longitud::39cadena (lon-22) AC500023.921.5861010.1
+longitud::39cadena (lon-22) AC500025.521.7721010.2
+longitud::45cadena (lon-22) 26.021.7731008.41010.0
+longitud::39cadena (lon-22) AC500027.821.5681009.5
+longitud::39cadena (lon-22) AC500029.121.2621009.4
+longitud::45cadena (lon-22) 30.121.0691007.41009.0
+longitud::39cadena (lon-22) AC500030.121.1581008.5
+longitud::39cadena (lon-22) CI800029.120.7601008.0
+longitud::45cadena (lon-22) 27.920.6641006.91007.9
+longitud::39cadena (lon-22) AC500027.320.3661007.8
+longitud::39cadena (lon-22) AC500025.620.8741008.4
+
+Fecha: 05MARZ-2017
+------------------
+longitud::45cadena (lon-22) 25.920.8731007.41009.2
+longitud::39cadena (lon-22) AC500025.221.0771010.3
+longitud::39cadena (lon-22) AC500025.020.8771010.7
+longitud::45cadena (lon-22) 24.820.8781009.01010.8
+longitud::39cadena (lon-22) AC510024.520.9801010.9
+longitud::39cadena (lon-22) AC510024.020.7801010.5
+longitud::45cadena (lon-22) 24.020.6811008.01009.9
+longitud::39cadena (lon-22) AC500024.020.7821009.3
+longitud::39cadena (lon-22) AC500024.020.6821008.8
+longitud::45cadena (lon-22) 23.320.3831007.11008.7
+longitud::39cadena (lon-22) AC500022.820.0841009.0
+longitud::39cadena (lon-22) AC500022.920.3891009.0
+longitud::45cadena (lon-22) 22.720.3861008.61010.2
+longitud::35cadena (lon-22) VOKSKC24.320.9811010.6
+longitud::35cadena (lon-22) VOKSKC25.020.8771010.9
+longitud::45cadena (lon-22) 25.420.5741008.81010.6
+longitud::39cadena (lon-22) CI800027.420.9671010.0
+longitud::39cadena (lon-22) CI800030.120.8641009.3
+longitud::45cadena (lon-22) 28.918.4571007.21009.0
+longitud::39cadena (lon-22) CI800030.120.9641008.7
+longitud::39cadena (lon-22) CI700026.820.5671008.3
+longitud::45cadena (lon-22) 26.820.5681006.31008.1
+longitud::39cadena (lon-22) AC500030.120.9651008.3
+longitud::39cadena (lon-22) CI700026.821.0701008.8
